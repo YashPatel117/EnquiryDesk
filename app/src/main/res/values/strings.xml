@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Enquiry Desk</string>
+    <string name="forgot_password">forgot password?</string>
+    <string name="login">Log in</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="password">Password</string>
+    <string name="enter_your_password">Enter Your Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="contact">Contact</string>
+    <string name="email">Email</string>
+    <string name="conform_password">Conform Password</string>
+    <string name="standard">Standard</string>
+    <string name="enter_your_standard">Enter Your Standard</string>
+    <string name="dont_t_have_account">dont\'t have account? </string>
+    <string name="already_have_an_account">already have an account? </string>
+    <string name="please_enter_valid_email">Please enter valid email</string>
+    <string name="onlineacademy">OnlineAcademy</string>
+    <string name="please_enter_valid_contact">Please enter valid contact</string>
+    <string name="please_enter_valid_standard">Please enter valid standard</string>
+    <string name="forgot_password_capital">Forgot Password</string>
+    <string name="enter_your_registered_email">Enter your registered email</string>
+    <string name="your_password_will_be_sent_to_registered_email">Your password will be sent to registered email</string>
+    <string name="get_password">Get Password</string>
+    <string name="title_activity_homeactivity">homeactivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_explore">Explore</string>
+    <string name="title_Profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_Live">Live</string>
+    <string name="navigation_drawer_open" />
+    <string name="navigation_drawer_close">\n</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="receipts">Receipts</string>
+    <string name="contact_us">Contact us</string>
+    <string name="subscription">Subscription</string>
+    <string name="something_went_wrong">Something Went Wrong</string>
+    <string name="unable_to_log_you_in">Unable to Log You In</string>
+    <string name="unable_to_signup">Unable to SignUp</string>
+    <string name="logging_you_in">Logging You In...</string>
+    <string name="creating_your_account">Creating Your Account...</string>
+    <string name="enter_your_name">Enter Your Name</string>
+</resources>
